@@ -1,4 +1,4 @@
-## Welcome to Rekno Widyawati
+## Profil Saya :)
 
 ## NAma : Rekno Widyawati
 ## Nim  : 11453201575
