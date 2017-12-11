@@ -1,4 +1,7 @@
 ## Welcome to Rekno Widyawati
+  Nama : Rekno Widyawati
+  Nim  : 11453201575
+  
 jurusan Program Studi S1 Sistem Informasi
 Fakultas Sains dan Teknologi
 Universitas Islam Negeri Sultan Syarif Kasim Riau
