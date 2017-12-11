@@ -1,33 +1,15 @@
 ## Welcome to Rekno Widyawati
-  Nama : Rekno Widyawati
-  Nim  : 11453201575
   
 jurusan Program Studi S1 Sistem Informasi
 Fakultas Sains dan Teknologi
 Universitas Islam Negeri Sultan Syarif Kasim Riau
 
-You can use the [editor on GitHub](https://github.com/reknowidyawati/Rekno/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hobby 
 
-### Markdown
+Hobby saya sejak kecil saya gemar main bulu tangkis, sehingga sampai saat ini saya sangan senang sekali dengan hobi tersebu.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Olah raga kompetitif bulu tangkis diciptakan oleh petugas Tentara Britania di Pune, India pada abad ke-19 saat mereka menambahkan jaring dan memainkannya secara bersaingan. Oleh sebab kota Pune dikenal sebelumnya sebagai Poona, permainan tersebut juga dikenali sebagai Poona pada masa itu.
 
 [Link](url) and ![Image](src) https://nama.repository.rekno.github.io/
 ```
