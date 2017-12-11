@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Rekno Widyawati
+jurusan Program Studi S1 Sistem Informasi
+Fakultas Sains dan Teknologi
+Universitas Islam Negeri Sultan Syarif Kasim Riau
 
 You can use the [editor on GitHub](https://github.com/reknowidyawati/Rekno/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
